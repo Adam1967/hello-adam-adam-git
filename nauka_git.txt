@@ -1,3 +1,5 @@
 nauka terminala windows
 https://www.youtube.com/playlist?list=PLKnxnWdLGM4_6EaJsD3h7egbDOlYBJ3pJ
 1. Polecenie pierwsze
+2. Polecenie drugie
+3. Polecenie trzecie
