@@ -1,0 +1,47 @@
+[33mcommit 6645d1869e5f6a2706575a44d9017caa01b1a365[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcreate-navigation[m[33m)[m
+Author: Adam Grabowski <adam.grabowski1967@gmail.com>
+Date:   Tue May 20 13:28:00 2025 +0200
+
+    Zmiana indeks3 i 4 na links3 i 4 w pliku indeks1.html
+
+[33mcommit 7a0bf3e758f5b6c046e1bfbc01a3be7d6b083cdb[m
+Author: Adam Grabowski <adam.grabowski1967@gmail.com>
+Date:   Tue May 20 13:00:30 2025 +0200
+
+    Dodanie indeks3 i indeks4 w pliku indeks1.html
+
+[33mcommit 0c63b9becf9fc122dd899fd5c1dba923a8cc6004[m[33m ([m[1;32mmain[m[33m)[m
+Author: Adam Grabowski <adam.grabowski1967@gmail.com>
+Date:   Tue May 20 10:40:01 2025 +0200
+
+    Dodanie do ksiązki.txt i dadanie do nauka_git.txt linku do trzeciej lekcji
+
+[33mcommit a5284c4be393f05d237fc2f58606e05373fba340[m
+Author: Adam Grabowski <adam.grabowski1967@gmail.com>
+Date:   Tue May 20 09:04:56 2025 +0200
+
+    Zmodyfikowano  indeks1.html o wpis indeks1
+
+[33mcommit fbb09a21c461e6cfa08e598bfd0a3663f7beded3[m
+Author: Adam Grabowski <adam.grabowski1967@gmail.com>
+Date:   Tue May 20 08:43:56 2025 +0200
+
+    Dodano plik  indeks1.html
+
+[33mcommit ea415a0d5d7e545747229263fb6b2263ff519622[m
+Author: Adam Grabowski <adam.grabowski1967@gmail.com>
+Date:   Tue May 20 00:57:16 2025 +0200
+
+    Modyfikacja  pliku ksiazki
+
+[33mcommit a49afe5aed16f511dc39c32174fe6c1181b957c8[m
+Author: Adam Grabowski <adam.grabowski1967@gmail.com>
+Date:   Tue May 20 00:40:13 2025 +0200
+
+    Nauka git na pliku nauka_git i ksiazki
+
+[33mcommit a75971ad0339ce6a4d87377424c743e479e17fdf[m
+Author: Adam Grabowski <adam.grabowski1967@gmail.com>
+Date:   Mon May 19 23:50:40 2025 +0200
+
+    Initial commit
