@@ -1,3 +1,5 @@
 1. Ogniem i mieczem
 2. Potop
 3.dodano trzecią książkę
+4.dodano czwartą książkę w katalogu e:\adam w branchu "zmiana w pliku indeks1"
+5.dodano piątą książkę w katalogu e:\adam w branchu "zmiana w pliku indeks1"
