@@ -1,2 +1,4 @@
 1. Kontakt pierwszy Aga
 2. Kontakt drugi Robert
+3. Kontakt trzeci Andrzej
+4. Kontakt czwarty Krzysztof
